@@ -46,7 +46,7 @@ you should have python >= 3.7 installed on your machine, or you can check
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ivan-abboud/fifa-worldcup-dashboard.git
+   git clone https://github.com/ivan-abboud/job-post-analysis.git
    ```
 2. Install python packages
    ```sh
